@@ -2,11 +2,11 @@ const e = prompt("Email");
 const p = prompt("pass");
 
 
-if(e == 'abc@gmail.com' && p == '12345')
+if(e == 'stu@letsupgrade.com' && p == '12345')
 {
-    alert("Hurray! You are logged in");
+    alert("you are logged in");
 }
 else
 {
-    alert("Try Again");
+    alert("try again with correct email and password");
 }

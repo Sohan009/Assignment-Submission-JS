@@ -6,7 +6,7 @@ let pc = 0;
 
 switch(e)
 {
-    case "abc@gmail.com":
+    case "stu@letsupgrade.com":
         ec = 1;
         break;
 }
@@ -23,9 +23,9 @@ let res = ec * pc;
 switch(res)
 {
     case 1:
-        alert("Hurray! You are logged in");
+        alert(" you are logged in");
         break;
     case 0:
-        alert("Try Again");
+        alert("try again with correct email and password");
         break;
 }
